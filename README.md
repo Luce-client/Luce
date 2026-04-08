@@ -9,4 +9,4 @@
 
 * 본 클라이언트는 자동 업대이트를 지원 할수도 있습니다.
 
--# 사용한 오픈소스 luna client,Feather Client
+* -# 사용한 오픈소스 luna client,Feather Client
